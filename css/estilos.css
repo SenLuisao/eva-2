@@ -10,13 +10,13 @@ nav a:hover{
 .nav-link {
     display: inline-block;
 }
-.login{
+.Formulario{
     border: 2px solid #000000;
     margin-left: 25%;
     margin-right: 25%;
 }
 #footer h5{
-    width: 100%;
+    width: 80%;
     text-align: center;
 }
 #campo3 {
@@ -37,3 +37,7 @@ nav a:hover{
     color: #000000; 
 }
 
+#row mt-2{
+    width: 100%;
+    text-align: center;
+}
